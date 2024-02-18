@@ -1,3 +1,5 @@
+This code implements a typing speed test game using the Pygame library in Python. Here are the capabilities of this code:
+
 1. User Interface:
 The game provides a graphical user interface (GUI) where users can interact using mouse clicks and keyboard input.
 It displays an image upon initialization as the opening screen.
