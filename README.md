@@ -1,4 +1,4 @@
-. User Interface:
+1. User Interface:
 The game provides a graphical user interface (GUI) where users can interact using mouse clicks and keyboard input.
 It displays an image upon initialization as the opening screen.
 It has a window size of 1000x600 pixels.
